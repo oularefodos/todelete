@@ -1,0 +1,29 @@
+.cercle {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(81, 96, 145);
+    margin: 0.5rem;
+    text-align: center;
+    line-height: 6rem;
+    border-radius: 50% 50% 50% 50%;
+}
+
+.cercle:hover {
+    transform: scale(1.2);
+}
+
+span {
+    color: aliceblue;
+    font-style: italic;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main {
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 1rem;
+    background-color: white;
+    border-radius: 5px;
+}

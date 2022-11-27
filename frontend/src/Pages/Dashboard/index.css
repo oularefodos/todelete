@@ -1,0 +1,16 @@
+.dash {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    position: relative;
+    left: 20%;
+}
+
+.CommunityChart{
+    width: 100px;
+    height: 100px;
+}
+
+.pb-4 {
+    padding-bottom: 1.5rem !important
+}

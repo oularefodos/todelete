@@ -1,0 +1,43 @@
+
+.CodeBourse{
+    /* position: absolute; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 419px;
+    height: 326px;
+    position: relative;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1{
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    
+
+    color: #16365F;
+}
+
+
+button{
+    position: absolute;
+    bottom: 12rem;
+    border: none;
+    font-size: x-large;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* width: 198px; */
+    height: 50px;
+    left: 1rem;
+    right: 1rem;
+    color: #D9D9D9;
+    /* width: 198px; */
+    background: rgb(81, 96, 145);
+    border-radius: 15px;
+}
